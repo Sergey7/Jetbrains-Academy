@@ -76,7 +76,8 @@ Sorry, but computer chose rock
 > !exit
 Bye!
 ```
-#Solution
+## Solution
+    
 ```
 import random
 
